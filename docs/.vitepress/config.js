@@ -28,6 +28,13 @@ export default {
             // Your other sidebar items...
           ]
         },
+        {
+        text: 'Advanced Guides',
+        items: [
+          { text: 'Accessing BIOS', link: '/advanced-guides/accessing-bios' },
+          // ... other advanced guides
+        ]
+        }
         // Add more sections
       ],
     },
