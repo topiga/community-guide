@@ -2,7 +2,7 @@
 export default {
     title: 'Ugreen NASync Guide',
     description: 'A comprehensive guide to Ugreen NASync',
-    base: '/community-guide/'
+    base: '/community-guide/',
     themeConfig: {
       nav: [
         { text: 'Home', link: '/' },
